@@ -1,6 +1,6 @@
 # hello-net
 
-[image](https://github.com/datawhalechina/hello-net/blob/main/pics/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%B0%81%E9%9D%A2.jpeg)
+![image](https://github.com/datawhalechina/hello-net/blob/main/pics/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%B0%81%E9%9D%A2.jpeg)
 
 ### 项目简介
 
