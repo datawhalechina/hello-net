@@ -1,6 +1,6 @@
 # hello-net
 
-![image](https://github.com/datawhalechina/hello-net/blob/main/pics/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%B0%81%E9%9D%A2.jpeg)
+<img src="https://github.com/datawhalechina/hello-net/blob/main/pics/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%B0%81%E9%9D%A2.jpeg" width=200px>
 
 ### 项目简介
 
@@ -31,7 +31,6 @@
 项目的初步规划是在10月24日前，完成本书1、3章的回顾总结和习题解答板块。
 目前项目成员有四位，分别负责一、三章。两章内容同步进行，最后统一进行汇总润色。
 可预见的困难主要是习题解答环节，须确保习题的解析或者思路是正确的。
-
 
 ### 项目负责人
 
