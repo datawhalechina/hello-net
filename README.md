@@ -44,4 +44,4 @@ Github主页链接：https://github.com/BlueLumen
 |梁恩瑞|1776827874@qq.com|
 |张子杰|543367459@qq.com|
 |卢水琼|1217554738@qq.com|
-|Cloris|clorisqiu1@gmail.com|
+|邱雯|clorisqiu1@gmail.com|
