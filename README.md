@@ -1,5 +1,7 @@
 # hello-net
 
+[image](https://github.com/datawhalechina/hello-net/blob/main/pics/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%B0%81%E9%9D%A2.jpeg)
+
 ### 项目简介
 
 《计算机网络(第六版)》是清华大学出版社于2022年出版的书籍。该书系统地介绍了计算机网络的基本原理，与时俱进地介绍了当下计算机网络的先进技术。同时作者生动而幽默的语言令本书富有趣味性和故事性，让读者在轻松流畅的阅读体验中学到知识。
